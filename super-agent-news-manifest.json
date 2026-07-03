@@ -1,0 +1,28 @@
+{
+  "citations": [
+    "[androidauthority.com](https://www.androidauthority.com/siri-ai-vs-gemini-hands-on-comparison-3677330/)",
+    "[macrumors.com](https://www.macrumors.com/guide/ios-27-siri/)",
+    "[9to5mac.com](https://9to5mac.com/2026/06/24/siri-ai-app-on-ios-27-lets-users-easily-switch-between-siri-and-chatgpt/)",
+    "[memeburn.com](https://memeburn.com/2026/06/google-gives-gemini-3-5-flash-computer-use-for-ai-agents/)",
+    "[blog.google](https://blog.google/technology/ai/introducing-computer-use-in-gemini-3-5-flash/)"
+  ],
+  "design_plan": "rng=42;aida=pass;hero_math=1120px/2.4lines;bento_density=grid-auto-flow:dense;labels=pass;button_contrast=pass",
+  "generated_at": "2026-07-03T01:46:01.292614+00:00",
+  "headline": "Super vs Siri \u2014 personal AI agents for real computer work",
+  "site_brief": {
+    "audience": "people comparing Super with Siri",
+    "competitor": "Siri",
+    "goal": "Create a fair but persuasive competitor comparison page for Super vs Siri. Use supplied sources for current facts, avoid fake claims, and make the practical argument that Super is better suited for repeated computer-use work because its cache can lower repeated execution cost.",
+    "kind": "competitor_comparison",
+    "queries": [
+      "Siri AI agent",
+      "Siri AI assistant",
+      "Siri automation",
+      "personal AI agents",
+      "computer use AI agent"
+    ],
+    "slug": "super-vs-siri",
+    "title": "Super vs Siri"
+  },
+  "summary": "Siri AI shines at private, on\u2011device context inside Apple\u2019s ecosystem. Super is built for durable computer\u2011use workflows \u2014 with a reusable computer-use cache that makes repeated work faster and cheaper over time."
+}
